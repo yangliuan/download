@@ -19,7 +19,7 @@
                 <div class="card-body">
                 <form method="POST" action="{{route('download')}}" enctype="application/x-www-form-urlencoded">
                      @csrf
-                    <label for="url">下载地址</label> <input type="text" name="url" value="https://dldir1.qq.com/qqtv/TencentVideo10.35.1044.0.exe"> 
+                    <label for="url">下载地址</label> <input type="text" name="url" value=""> 
                     <input type="submit" value="下载"> 
                 </form>
                 </div>
