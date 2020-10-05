@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Download Remote Asset
                 </div>
 
                 <div class="links">
